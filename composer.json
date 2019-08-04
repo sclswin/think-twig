@@ -1,0 +1,21 @@
+{
+    "name": "sclswin/think-twig",
+    "description": "think-twig",
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sclswin\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "sclswin",
+            "email": "386431471@qq.com"
+        }
+    ]
+}
